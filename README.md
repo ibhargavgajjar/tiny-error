@@ -6,7 +6,7 @@
 
 A example of error module for npm.
 
-## install
+## Install
 
 ```
 npm install @ibhargavgajjar/tiny-error
